@@ -1,0 +1,2 @@
+serviceClass: com.ggaecc.bean.client.GreetingService
+path: E3B2C0CF3936D0708C77BFE7517F9549.gwt.rpc

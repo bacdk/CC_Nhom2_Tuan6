@@ -1,0 +1,3 @@
+# Module gaejexperiments
+# RPC service class, partial path of RPC policy file
+com.ggaecc.bean.client.GreetingService, E3B2C0CF3936D0708C77BFE7517F9549.gwt.rpc
